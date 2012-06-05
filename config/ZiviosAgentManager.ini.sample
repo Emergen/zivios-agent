@@ -1,0 +1,8 @@
+[general]
+computerdn=cn=hostname,ou=location,...
+distro=distribution_id
+logfile=ZiviosAgent.log
+sslcert=/opt/zivios/ca/public/hostname.crt
+sslprivatekey=/opt/zivios/ca/private/hostname.key
+masterldap=master.domainname
+
